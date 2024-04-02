@@ -11,6 +11,10 @@ Foi criado um site com menu de navegação, para treinar semântica com HTML e e
 - HTML5
 - CSS3
 
+## Deploy
+
+Link: <a href="https://poncianodev.github.io/desafio5-kick/" target="_blank">Ver projeto</a>
+
 <hr>
 
 Desenvolvido por <a href="https://www.linkedin.com/in/lucas-ponciano/">poncianodev</a>
