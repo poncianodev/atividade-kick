@@ -1,4 +1,4 @@
-# Desafio 5 - Kick
+# Desafio Ancoragem - Kick
 
 Repositório criado para o desafio 5 da minha jornada na Kick.
 
