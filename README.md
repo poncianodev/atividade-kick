@@ -13,7 +13,7 @@ Foi criado um site com menu de navegação, para treinar semântica com HTML e e
 
 ## Deploy
 
-Link: <a href="https://poncianodev.github.io/desafio5-kick/" target="_blank">Ver projeto</a>
+Link: <a href="https://poncianodev.github.io/desafio-ancoragem-kick/" target="_blank">Ver projeto</a>
 
 <hr>
 
